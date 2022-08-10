@@ -1,0 +1,33 @@
+*{
+    background-color:  #fffefa;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+   
+}
+
+.conatainer-central{
+    text-align: center;
+}
+
+#title{
+   font-style: italic; 
+   text-align: center;
+   
+
+}
+
+.photo{
+    list-style: ;t
+}
+
+
+ul {
+list-style: none;
+color: rgb(53, 53, 252);
+padding: 15px;
+
+
+
+}
+
