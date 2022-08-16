@@ -1,33 +1,68 @@
 *{
-    background-color:  #fffefa;
     margin: 0;
-    padding: 0;
+    padding: 3px;
     box-sizing: border-box;
+
+   
    
 }
 
-.conatainer-central{
+.flex-container-central{
     text-align: center;
+    
 }
 
-#title{
+.title{
    font-style: italic; 
    text-align: center;
    
+}
+
+img{
+    width: 150px;
+    text-align: center;
+}
+
+#link {
+    margin: 0; 
+    background-color: blanchedalmond;
+    padding: 1px;
+    padding-right: 5px;
+    list-style-position: outside;
+    display: flex;
+    justify-content: space-around;
+    
+     
 
 }
 
-.photo{
-    list-style: ;t
+#link li {
+    display: inline ;
+    margin: 2px;
+    border-radius: 50%;
+    background-color:blanchedalmond;
+   
+   
+}
+
+#link li a{
+    text-decoration: none;
+    color:maroon;
+
+
 }
 
 
-ul {
-list-style: none;
-color: rgb(53, 53, 252);
-padding: 15px;
+
+ 
+  
+ 
 
 
 
-}
+
+
+ 
+
+
 
