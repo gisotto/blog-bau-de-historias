@@ -1,0 +1,24 @@
+.flex-container-central{
+    text-align: center;
+}
+
+.flex-container-central h1{
+    float: center;
+    color:  rgba(190, 154, 54, 0.76);
+    margin-top: 0;
+    background-color: black;
+
+}
+
+#photo{
+    text-align: center;
+    flex-direction: row;
+    
+}
+
+.flex-container-central h2{
+    color: maroon;
+    margin-top: 20px;
+    font-style: italic;
+}
+

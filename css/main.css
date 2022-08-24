@@ -9,12 +9,12 @@
 
 .flex-container-central{
     text-align: center;
-    
 }
 
 .title{
-   font-style: italic; 
+   font-style:normal; 
    text-align: center;
+   background-color: rgba(190, 154, 54, 0.76);
    
 }
 
@@ -24,10 +24,11 @@ img{
 }
 
 #link {
-    margin: 0; 
+    margin: 1px; 
+
     background-color: blanchedalmond;
     padding: 1px;
-    padding-right: 5px;
+    padding-right: 2px;
     list-style-position: outside;
     display: flex;
     justify-content: space-around;
@@ -51,6 +52,10 @@ img{
 
 
 }
+ .flex-container-p{
+    margin: 40px;
+    text-align: center;
+ }
 
 
 

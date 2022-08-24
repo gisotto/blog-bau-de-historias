@@ -1,0 +1,28 @@
+*{
+    text-align: center;
+}
+
+.flex-container-central {
+    
+    color: rgba(190, 154, 54, 0.76);
+}
+
+.flex-container-central h1{
+background-color: black;
+
+}
+
+.flex-container-central h2{
+font-style: italic;
+color: maroon;
+}
+
+.flex-container-central p {
+
+}
+
+
+.img-peruca{
+width: 150px;
+text-align: center;
+}
