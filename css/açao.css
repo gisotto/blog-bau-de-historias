@@ -2,3 +2,17 @@
     text-align: center;
     padding: 0;
 }
+ 
+.flex-container-central h1{
+    color: rgba(190, 154, 54, 0.76);  
+    background-color: royalblue;
+}
+
+.flex-container-central h2{
+color: maroon;
+}
+
+.photo{
+
+ width: 300px;
+}
